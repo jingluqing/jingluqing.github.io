@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Intelligent Marine Technology Workshop Proposal for PRICAI 2025"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   
 
 email: a-mail@mail.mail
 #blog logo
@@ -14,13 +14,14 @@ logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/background_image.jpg"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
+incremental: false
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
@@ -34,12 +35,12 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+  # - icon:	twitter
+  #   url:	https://twitter.com/dirkfabisch
+  #   desc: Follow me on twitter
+  #   share_url: http://twitter.com/share
+  #   share_title: ?text=
+  #   share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -48,12 +49,12 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	github
+  #   url:	https://github.com/dirkfabisch
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
@@ -61,3 +62,12 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+tags:
+  featured:
+    - 2014-11-30-titile.md
+    - 2025-07-5-Workshop-Topic.md
+    - 2014-08-29-Objectives-and-Scope.md
+    - 2014-08-29-Format-and-Activities.md
+    - 2014-08-29-Organizing-Committee.md
+    - 2014-08-29-Attendance-and-Promotion.md
+    - 2014-08-29-Contact-Person.md
