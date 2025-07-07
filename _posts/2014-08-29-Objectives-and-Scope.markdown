@@ -20,5 +20,5 @@ image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
     ⑤　All the submission must use Springer Template, and the template can be found [https://pricai.org/2025/index.php/submission](https://pricai.org/2025/index.php/submission).. 
  
 
-- Engagement plan: We will encourage audience participation through Q&A after each session, live polls during panel discussions, and a dedicated Slack/Discord channel for continuous interaction throughout the workshop. Selected papers will be invited to submit extended versions to a special issue of the journal Intelligent Marine Technology and Systems, [https://link.springer.com/journal/44295](https://link.springer.com/journal/44295).
+- Engagement plan: We will encourage audience participation through Q&A after each session, live polls during panel discussions, and a dedicated Slack/Discord channel for continuous interaction throughout the workshop. Selected papers will be invited to submit extended versions to a special issue of the journal Intelligent Marine Technology and Systems, [https://link.springer.com/collections/gjifjcffab](https://link.springer.com/collections/gjifjcffab).
 
